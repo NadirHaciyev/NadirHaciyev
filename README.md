@@ -4,8 +4,10 @@
 - 🌱  I’m currently learning **Frontend and Backend**
 - 💬  Ask me about **Frontend techs**
 - 📫  h.nadir0903@gamil.com
+- ⚡ Fun fact: I love to play chess
 
 ### Connect with me:
+<!-- [<img align="left" alt="nadir-haciyev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/) -->
 [<img align="left" alt="nadir-haciyev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nadir_haciyev)
 [<img align="left" alt="nadir-haciyev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nadir-haciyev/)
 [<img align="left" alt="nadir-haciyev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nadirhv/)
