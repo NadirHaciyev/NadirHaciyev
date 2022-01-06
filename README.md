@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Nadir
 #### A Software Engineer in living in Azerbaijan for now!
 
-<img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />  
-
 - 🌱  I’m currently learning **Frontend and Backend**
 - 💬  Ask me about **Frontend techs**
 - 📫  h.nadir0903@gamil.com
