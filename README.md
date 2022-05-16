@@ -3,7 +3,7 @@
 
 - 🌱  I’m currently learning **Frontend and Backend**
 - 💬  Ask me about **Frontend techs**
-- 📫  How to reach me: h.nadir0903@gamil.com
+- 📫  How to reach me: nadirhaciyev99@gmail.com
 - ⚡ Fun fact: I love to play chess
 
 ### Connect with me:
@@ -25,6 +25,8 @@
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" title="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="React" title="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+<img align="left" alt="React" title="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="Terminal" title="Terminal" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
