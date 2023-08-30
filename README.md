@@ -3,7 +3,7 @@
 
 - 🌱  I’m currently learning **Frontend and Backend**
 - 💬  Ask me about **Frontend techs**
-- 📫  How to reach me: nadirhaciyev99@gmail.com
+- 📫  How to reach me: h.nadir0903@gmail.com
 - ⚡ Fun fact: I love to play chess
 
 ### Connect with me:
